@@ -1,19 +1,23 @@
 # vue-jobs
 
 ## Project setup
+
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
 npm run serve
 ```
 
 ### Compiles and minifies for production
+
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Try it here
+
+Try it [Vue Jobs](https://peaceful-druid-368453.netlify.app/).
